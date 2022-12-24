@@ -23,4 +23,4 @@ O Gerador de CV é distribuído sob a licença MIT. Veja o arquivo `LICENSE` par
 
 ## Créditos
 
-O Gerador de CV foi desenvolvido por [John Smith](https://example.com). O logo do aplicativo foi criado por [Jane Doe](https://example.com). A fonte Roboto foi criada por [Christian Robertson](https://fonts.google.com/specimen/Roboto).
+O Gerador de CV foi desenvolvido por [Guilherme Verdoodt](https://twitter.com/guiverdoodt92). O logo do aplicativo foi criado por [Guilherme Verdoodt](https://twitter.com/guiverdoodt92). A fonte Roboto foi criada por [Christian Robertson](https://fonts.google.com/specimen/Roboto).
